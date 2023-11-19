@@ -17,7 +17,7 @@ namespace Tyuiu.DragomeretskiyED.Sprint5.Task1.V11
             int stopValue = 5;
 
             DataService ds = new DataService();
-
+            
             Console.Title = "Спринт #5 | Выполнил: Драгомерецкий Е.Д. | СМАРТб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");

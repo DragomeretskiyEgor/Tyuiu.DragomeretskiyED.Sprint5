@@ -52,7 +52,7 @@ namespace Tyuiu.DragomeretskiyED.Sprint5.Task1.V11.Lib
                         }
                     }
                 }
-
+                
                 Console.WriteLine("Табуляция успешно завершена. Результат сохранен в файл: " + path);
             }
             catch (Exception ex)
