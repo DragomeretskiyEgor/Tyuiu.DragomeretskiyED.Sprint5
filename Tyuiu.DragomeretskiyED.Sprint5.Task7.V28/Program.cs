@@ -27,7 +27,7 @@ namespace Tyuiu.DragomeretskiyED.Sprint5.Task7.V28
             Console.WriteLine("* УСЛОВИЕ:                                                                   *");
             Console.WriteLine("* Дан файл С:/DataSprint5/InPutDataFileTask7V28.txt в котором есть набор     *");
             Console.WriteLine("* символьных данных.Заменить все пробелы, идущие подряд больше одного.       *");
-            Console.WriteLine("* Полученный результат сохранить в файл OutPutDataFileTask7V27.txt.          *");
+            Console.WriteLine("* Полученный результат сохранить в файл OutPutDataFileTask7V28.txt.          *");
             Console.WriteLine("******************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                           *");
             Console.WriteLine("******************************************************************************");
