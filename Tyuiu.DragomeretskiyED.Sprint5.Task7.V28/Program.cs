@@ -31,7 +31,7 @@ namespace Tyuiu.DragomeretskiyED.Sprint5.Task7.V28
             Console.WriteLine("******************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                           *");
             Console.WriteLine("******************************************************************************");
-
+             
             string path = $@"C:\DataSprint5\InPutDataFileTask7V28.txt";
             string pathSaveFile = $@"C:\DataSprint5\OutPutDataFileTask7V28.txt";
 
